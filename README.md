@@ -25,6 +25,10 @@ This is the React frontend application for the Azure SQL Django API project. It 
 - **Node.js:** version 24.0.0 or higher.
 - **Backend:** The Django API must be running on `http://localhost:8000`.
 
+## ⚙️ Configuration
+
+- [API URL Setup](docs/API_SETUP.md) - Instructions for switching between local and production API environments.
+
 ## 📦 Installation
 
 1. Clone the repository (if you haven't already).
